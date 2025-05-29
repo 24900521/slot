@@ -153,7 +153,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![Screenshot 2025-05-29 064941](https://github.com/user-attachments/assets/8f157888-3db8-4200-8f0d-b6132e2ed6a9)
+![WhatsApp Image 2025-05-29 at 19 55 47_13fad522](https://github.com/user-attachments/assets/01de4d1d-95cd-4fd6-ab0a-64425bd62373)
 
 
 ## RESULT
